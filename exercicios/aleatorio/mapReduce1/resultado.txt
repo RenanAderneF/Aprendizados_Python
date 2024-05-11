@@ -1,0 +1,11 @@
+"assada"	1
+"c"	1
+"carne"	1
+"de"	1
+"em"	1
+"fam\u00edlia"	1
+"grafos"	1
+"paradigmas"	1
+"programa\u00e7\u00e3o"	1
+"python"	1
+"unida"	1
